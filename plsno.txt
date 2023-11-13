@@ -1,730 +1,728 @@
-# Body Part Size
-(Small, Large)
-* Asses
-* Cocks
-* Balls
-* Breasts
+# Размер части тела
+(малый, большой)
+* Задницы
+* Члены
+* Шары
+* Грудь
 
-#Bodies
+* Тела
 (General)
-* Skinny
-? Expresses an interest in characters that are waifish, thin, or slender.
-* Chubby
-? Expresses an interest in characters that are well-rounded, full in form, and pudgy.
-* Cut Cocks
-? Expresses an interest in circumcised penises, or penises with very little foreskin.
-* Glasses
-? A preference for characters who wear glasses.
-* Muscular Partners
-? Expresses an interest in characters that are powerfully-built and/or athletic.
-* Nonsexual Piercings
-? Engaging in sex with a character who has piercings on parts of his or her body that are not of a sexual nature, such as but not limited to tongue, ears, bellybutton etc.
-* Pubic Hair
-? Expresses an interest in pubic hair, possibly in large or excessive quantities.
+* Худые
+? Выражает интерес к персонажам, которые имеют худощавое, тонкое или стройное телосложение.
+* Пухлый
+? Выражает интерес к персонажам, имеющим округлые формы, полноватым и пузатым.
+* Обрезанные члены
+? Выражает интерес к обрезанным членам или членам с очень маленькой крайней плотью.
+* Очки
+? Предпочитает персонажей, которые носят очки.
+* Мускулистые партнеры
+? Проявляет интерес к персонажам с мощным телосложением и/или атлетическим телосложением.
+* Пирсинг несексуального характера
+? Вступление в половую связь с персонажем, имеющим пирсинг на частях тела, не имеющих сексуального характера, таких как язык, уши, пупок и т.д., но не ограничивающихся ими.
+* Лобковые волосы
+? Проявляет интерес к лобковым волосам, возможно, в большом или чрезмерном количестве.
 * Twinks
-? Expresses an interest in male characters that are feminine and subtly defined.
+? Выражает интерес к мужским персонажам, которые отличаются женственностью и утонченностью.
 * Twins
-? Expresses an interest in two or more characters who are identical, often siblings, who may or may not be played by the same player.
-* Uncut Cocks
-? Expresses an interest in penises that have not been circumsized and have a large amount of foreskin.
-* Very Fat Partners
-? Expresses an interest in characters that are exceptionally overweight or obese.
-* Very Lithe Partners
-? Expresses an interest in characters that are exceptionally thin or lank.
-* Very Muscular Partners
-? Expresses an interest in characters that are exceptionally muscular or toned.
+? Выражает интерес к двум или более идентичным персонажам, часто братьям и сестрам, которые могут быть или не быть сыграны одним и тем же игроком.
+* Необрезанные члены
+? Выражает интерес к пенисам, которые не были обрезаны и имеют большую крайнюю плоть.
+* Очень толстые партнеры
+? Выражает интерес к персонажам, имеющим исключительно избыточный вес или ожирение.
+* Очень стройные партнеры
+? Выражает интерес к персонажам, отличающимся исключительной худобой или полнотой.
+* Очень мускулистые партнеры
+? Выражает интерес к персонажам, обладающим исключительной мускулатурой или тонусом.
 * Voluptuousness
-? Expresses an interest in characters with wider than average hips and large buttocks.
+? Выражает интерес к персонажам с более широкими, чем обычно, бедрами и большими ягодицами.
 
-#Clothing
-(Self, Partner)
-* Cross-dressing
-? Engaging in an RP where one or more characters dress in the clothes of the gender opposite to their own.
-* Clothed sex
-? Engaging in an RP where you and/or your partner are not undressed during sexual interaction.
-* Heels
-? Expresses an interest in the inclusion of high heeled shoes in the sexual context of an RP, or an interest in characters wearing such.
-* Latex
-? The usage of latex and/or rubber material worn as clothing
-* Leather
-? Expresses an interest in the inclusion of leather clothing in the sexual context of an RP, or an interest in characters wearing such.
-* Lingerie
-? Expresses an interest in the inclusion of lingerie in the sexual context of an RP, or an interest in characters wearing such.
-* Masks
-? The use of masks (surgical, BDSM, gas masks, etc), typically to conceal the wearer's identity, in an RP scene.
-* Stockings
-? Expresses an interest in the inclusion of stockings in the sexual context of an RP, or an interest in characters wearing such.
-* Uniform / costume
-? Expresses an interest in the inclusion of uniforms or costumes in the sexual context of an RP, or an interest in characters wearing such.
+#Одежда
+(Себя, партнера)
+* Кроссдрессинг
+? Участие в RP, в котором один или несколько персонажей одеты в одежду противоположного пола.
+* Clothed sex (Self, Partner)
+? Участие в РП, в котором вы и/или ваш партнер не раздеваются во время сексуального взаимодействия.
+* Каблуки
+? Выражает интерес к включению в сексуальный контекст РП обуви на высоком каблуке или интерес к персонажам, носящим такую обувь.
+* Латекс
+? Использование латекса и/или резиновых материалов в качестве одежды
+* Кожа
+? Выражает интерес к включению кожаной одежды в сексуальный контекст RP, или интерес к персонажам, носящим такую одежду.
+* Белье
+? Выражает интерес к включению нижнего белья в сексуальный контекст RP, или интерес к персонажам, носящим такое белье.
+* Маски
+? Использование масок (хирургических, BDSM, противогазов и т.д.), обычно для сокрытия личности пользователя, в RP-сценах.
+* Чулки
+? Выражает интерес к включению чулок в сексуальный контекст RP или интерес к персонажам, которые их носят.
+* Униформа / костюм
+? Выражает интерес к включению униформы или костюмов в сексуальный контекст RP, или интерес к персонажам, носящим их.
 
 #Pairings
-(Self, Partner)
-* as Male
-* as Female
-* as Femboy
-* as Futa
-* as MtF trans
-* as FtM trans
-* as male & female
-* as multiple males
-* as multiple females
-* as multiple males & females
+(Я, Партнер)
+* как мужчина
+* как женщина
+* как фембой
+* как фута
+* как MtF-транс
+* как FtM транс
+* как мужчина и женщина
+* как несколько мужчин
+* как несколько женщин
+* как несколько мужчин и женщин
 
-#General
-(Giving, Receiving)
-* Biting
-? The act of biting or being bitten; sometimes painful, sometimes playful.
+#Общие
+(Давать, получать)
+* Кусание
+? Акт укуса или укушенного; иногда болезненный, иногда игривый.
 * Condoms
-? The use of condoms in any way; typically refers to a preference for the use of condoms during penetration, but may also refer to condom play, in which a condom (typically filled), is used as a sex toy; or, the filling of condoms with fluids, such as semen.
-* Consensual
-? A preference for sexual interactions between characters in an RP to be fully consenting, by their characters' own free wills.
-* Cuddling
-? Characters showing affection through hugging, snuggling, and other forms of physical closeness.
-cavity and/or throat, sometimes causing a gag reflex, or being the recipient of such actions.
-* Dirty Talking
-? The act of speaking in a typically explicit manner to provoke sexual stimulation from a participant, sometimes one's self; often in the context of seduction or foreplay.
+? Использование презервативов в любом виде; обычно относится к предпочтению использования презервативов во время проникновения, но может также относиться к игре с презервативами, когда презерватив (обычно заполненный) используется в качестве секс-игрушки; или к заполнению презервативов жидкостями, например, спермой.
+* Консенсус
+? Предпочтительно, чтобы сексуальное взаимодействие между персонажами в RP происходило по их полному согласию, по их собственной воле.
+* Обниматься
+? Персонажи проявляют привязанность, обнимаясь, прижимаясь друг к другу, и другие формы физической близости.
+* Обнимашки * Персонажи, демонстрирующие свою привязанность посредством объятий и других форм физической близости, проникают в полость и/или горло, иногда вызывая рвотный рефлекс, или становятся получателями таких действий.
+* Грязные разговоры
+? Действие, заключающееся в том, чтобы говорить в типично откровенной манере, провоцируя сексуальное возбуждение участника, иногда самого себя; часто в контексте соблазнения или прелюдии.
 * Docking
-? Phallic insertion into another person's sheath and/or foreskin.
+? Фаллическое введение в оболочку и/или крайнюю плоть другого человека.
 * Edging
-? Keeping on the edge of climax without orgasm
+? Нахождение на грани кульминации без оргазма
 * Ear Play
-? Interest in roleplay where ears play an important role. This can involve suckling, caressing, breathing/whispering into, pulling them, or any other kind of interaction focusing on the ears.
+? Интерес к ролевым играм, в которых уши играют важную роль. Это может включать в себя сосание, ласки, дыхание/шепот в них, вытягивание их, или любой другой вид взаимодействия, сосредоточенный на ушах.
 * Femboys
-? Effeminate, girly males.
-* Flexibility/Contortionism
-? Exceptional or unrealistic flexibility, typically used to achieve extremely difficult or impossible sexual positions to derive maximum stimulation.
+? Эффектные, "девчачьи" мужчины.
+* Гибкость/контрацепция
+? Исключительная или нереальная гибкость, обычно используемая для достижения чрезвычайно сложных или невозможных сексуальных позиций с целью получения максимальной стимуляции.
 * Face-sitting
-? A sexual practice where someone sits on another character's face with their buttocks or genitals, causing the person to be smothered, sometimes to the point asphyxiation; often done as form of forcing oral gratification.
-* Facials
-? The act of cumming directly onto one's face
+? Сексуальная практика, когда кто-то садится на лицо другого персонажа своими ягодицами или гениталиями, заставляя его задыхаться, иногда до удушья; часто используется как форма принуждения к оральному удовлетворению.
+* Лица
+? Акт кончания прямо на лицо.
 * Frotting
-? The act of at least two penises being ground against each other for sexual gratification.
-* Gender Transformation
-? Changes to sex or gender, sometimes willing, sometimes unwilling. Encompasses both magical and sci-fi changes, as well as more realistic gender reassignment.
+? Акт, при котором по меньшей мере два пениса затачиваются друг на друга для сексуального удовлетворения.
+* Трансформация пола
+? Изменение пола или гендера, иногда добровольное, иногда невольное. Включает в себя как магические и научно-фантастические изменения, так и более реалистичную смену пола.
 * Handjob / Fingering
-? Sexual stimulation by direct, physical contact of the hands or fingers to the genitals.
-* Swallowing
-? The act of orally consuming semen, either directly or indirectly from a penis.
+? Сексуальная стимуляция путем прямого физического контакта рук или пальцев с гениталиями.
+* Глотание
+? Акт орального потребления спермы, прямо или косвенно выделяемой из полового члена.
 * Hotdogging
-? The act of placing a penis between the ass cheeks and pressing them against it -- sliding it between them in order to reach sexual satisfaction.
+? Акт помещения полового члена между щеками задницы и прижатия их к ней - скольжения между ними с целью достижения сексуального удовлетворения.
 * Ice
-? The use of ice in any fashion during sex, typically as a form of erotic foreplay.
+? Использование льда в любой форме во время секса, обычно в качестве эротической прелюдии.
 * Intelligent Partners
-? Exhibits a preference for partners that have particularly high levels of intelligence, wit, cunning and manipulation skills.
-* Kissing
-? Expresses an interest in kissing or being kissed by another character, typically denoting French kissing.
-* Leather
-? The use of leather, often in a bondage situation; typically includes leather garments or equipment associated with dominants, as well as harness gear.
-* Licking
-? The act of one character licking another. May or may not be sexual; when sexual, often in areas of the body that are sexual, including but not limited to the nipples, breasts, anus, genitalia etc.
-* Masturbation
-? The act of stimulating oneself sexually, usually utilizing physical contact from the hands or fingers to the genitals.
-* Navel Play
-? Engaging in sexual acts involving pleasure derived from a character's bellybutton; often refers to licking or tonguing of the navel.
-* Photography/Videotaping
-? The act of visually recording a scene amongst participants, often as a form of humiliation, exhibitionist fetishism and/or blackmail/extortion.
-* Romance / Affection
-? Displaying or expressing love or strong affection, passion, either during love making or during normal scenes.
-* Smoking
-? Refers to the act of smoking and/or receiving pleasure from an aspect of smoking or smoke during an RP.
-* Socks/Stockings
-? Expresses an interest in the inclusion of socks and/or stockings in the sexual context of an RP, or an interest in characters wearing such.
+? Предпочитает партнеров, обладающих особенно высоким уровнем интеллекта, смекалкой, хитростью и умением манипулировать.
+* Поцелуи
+? Проявляет интерес к поцелуям или к тому, чтобы его поцеловал другой персонаж, обычно обозначая французский поцелуй.
+* Кожа
+? Использование кожи, часто в ситуации бондажа; обычно включает кожаную одежду или снаряжение, ассоциирующееся с доминантами, а также упряжь.
+* Лизание
+? Действие, при котором один персонаж лижет другого. Может иметь или не иметь сексуальный характер; если имеет место, то часто в тех местах тела, которые являются сексуальными, включая, но не ограничиваясь, сосками, грудью, анусом, гениталиями и т.д.
+* Мастурбация
+? Акт сексуального стимулирования себя, обычно с использованием физического контакта рук или пальцев с гениталиями.
+* Игра с пупком
+? Сексуальные действия, связанные с получением удовольствия от пупка персонажа; часто относится к облизыванию или ласканию пупка.
+* Фото/видеосъемка
+? Акт визуальной фиксации сцены между участниками, часто как форма унижения, эксгибиционистского фетишизма и/или шантажа/вымогательства.
+* Романтика / ласки
+? Проявление или выражение любви или сильной привязанности, страсти, как во время занятий любовью, так и во время обычных сцен.
+* Курение
+? Означает акт курения и/или получение удовольствия от какого-либо аспекта курения или дыма во время РП.
+* Носки/Чулки
+? Выражает интерес к включению носков и/или чулок в сексуальный контекст РП, или интерес к персонажам, носящим их.
 * Strip Tease
-? The act of dramatically removing clothing or watching a participant do such, typically as a form of seduction.
-* Teasing
-? Refers to extended scenes of foreplay prior to explicit, sexual intercourse, which may be physical and/or verbal, typically to arouse one's partner to the point of sexual frustration or desperation.
-* Tickling
-? The act of tickling and/or being tickled in a sexual context of an RP; or, receiving sexual stimulation from such.
-* Tomboys
-? Females who behave or present themselves in a masculine manner.
-* Transformation
-? The act of causing the physical characteristics of a participant of an RP, possibly including one's self, by magical or chemical means, to change in a dramatic fashion; may refer to a myriad of different types of transformations, and connotates receiving sexual pleasure from the act of transformation itself.
-* Tribadism / Scissoring
-? Form of non-penetrative sex in which a person rubs their vagina against a same-sex partner's body for sexual stimulation, in most cases vaginal-to-vaginal contact through scissoring.
-* Underwear
-? An affinity for underwear, either being worn on one's self, one's partner(s) or by itself; often involves stimulation from the scent or tactility of the underwear, but may also refer to using underwear as a sex toy in any way.
+? Действие по резкому снятию одежды или наблюдение за тем, как это делает участник, обычно в качестве формы соблазнения.
+* Дразнить
+? Относится к продолжительным сценам прелюдии перед явным половым актом, которые могут быть физическими и/или словесными, обычно с целью возбудить партнера до состояния сексуальной неудовлетворенности или отчаяния.
+* Щекотка
+? Акт щекотания и/или щекотки в сексуальном контексте РП; или получение сексуальной стимуляции от этого.
+* Томбои
+? Женщины, которые ведут себя или представляют себя в мужском стиле.
+* Трансформация
+? Акт изменения физических характеристик участника РП, возможно, включая его самого, с помощью магических или химических средств; может относиться к множеству различных типов трансформаций и подразумевает получение сексуального удовольствия от самого акта трансформации.
+* Трибадизм / Scissoring
+? Форма непроникающего секса, при которой человек трется своим влагалищем о тело однополого партнера для сексуальной стимуляции, в большинстве случаев контакт влагалища с влагалищем через ножницы.
+* Нижнее белье
+? Пристрастие к нижнему белью, надеваемому на себя, партнера (партнеров) или самостоятельно; часто подразумевает стимуляцию от запаха или тактильных ощущений от белья, но может также относиться к использованию нижнего белья в качестве секс-игрушки в любом виде.
 * Unintelligent Partners
-? Exhibits a preference for characters that exhibit below-average intelligence, often low enough to make them easy to manipulate; this includes everything from air-headed bimbos to large, animalistic brutes.
-* Vanilla Sex
-? Sex which does not involve such elements as BDSM, kink, or fetish activities.
-* Voyeurism/Exhibitionism
-? Refers to the derivation of sexual stimulation from either/or the action of watching, typically in secret, a person (or people) reveal themselves or do something otherwise explicit, or the act of revealing one's self and/or doing something otherwise explicit with the intent to be viewed.
+? Предпочитает персонажей с интеллектом ниже среднего, часто достаточно низким, чтобы ими можно было легко манипулировать; сюда входят все - от воздушных болванов до крупных звероподобных грубиянов.
+* Ванильный секс
+? Секс, не включающий такие элементы, как BDSM, кинк или фетиш.
+* Вуайеризм/эксгибиционизм
+? Означает получение сексуальной стимуляции либо от наблюдения, обычно тайного, за тем, как человек (или люди) раскрывает себя или делает что-то откровенное, либо от раскрытия себя и/или выполнения чего-то откровенного с намерением, чтобы на это смотрели.
 
-# Oral Sex
-(Giving, Recieving)
-* Blowjob
-? Sexual stimulation by direct, physical contact of the mouth or tongue to male genitals
-* Cunnilingus
-? Sexual stimulation by direct, physical contact of the mouth or tongue to female genitals
-* Deep throat
-? The act of penetrating the mouth of another character to the depths at which the penis or insertion enters the back of the mouth 
-* Face-Fucking
-? Refers to the act of penetrating the mouth of another character with a similar technique as fucking a vagina or anus, typically by bracing the mouth or skull and thrusting back and forth; often rough.
-* Oral Virginity
-? Engaging in an RP in which a character that has never performed fellatio or cunnilingus performs such acts.
-* Throat Penetration
-? The act of penetrating the mouth of another character to the depths at which the penis or insertion enters the back of the mouth cavity and/or throat, sometimes causing a gag reflex, or being the recipient of such actions.
+# Оральный секс
+(дающий, принимающий)
+* Минет
+? Сексуальная стимуляция путем прямого физического контакта рта или языка с мужскими гениталиями.
+* Куннилингус
+? Сексуальная стимуляция путем прямого физического контакта рта или языка с женскими гениталиями
+* Глубокая глотка
+? Акт проникновения в рот другого персонажа на глубину, при которой пенис или вставка входят в заднюю часть рта 
+* Трахание лицом
+? Означает акт проникновения в рот другого персонажа с использованием техники, аналогичной траханью влагалища или ануса, обычно с помощью скобления рта или черепа и толчков вперед-назад; часто грубо.
+* Оральная девственность
+? Участие в РП, в котором персонаж, никогда не занимавшийся фелляцией или куннилингусом, совершает эти действия.
+* Проникновение в горло
+? Акт проникновения в рот другого персонажа на глубину, при которой пенис или вставка входят в заднюю стенку полости рта и/или горла, иногда вызывая рвотный рефлекс, или же быть получателем таких действий.
 
 #Ass play
-(Giving, Receiving)
+(Дающий, Получающий)
 * Ass Worship
-? Gratuitous acknowledgment of one's partner's ass or buttocks, either verbal and/or physical, or receiving such actions.
-* Anal Fisting
-? The act of inserting one's hand(s) and/or arm(s) into one's partner's anus, or being the recipient of such acts.
-* Anal Training
-? Engaging in the use of the various anatomy of a character's anus to otherwise prepare and/or acclimate the character to an insertion, the size of which the character would not otherwise be comfortable taking.
-* Anal Toys
-? Refers to the inclusion of anal penetration with sex toys, including but not limited to dildos, vibrators, anal eggs, anal beads, etc.
-* Anal Virginity
-? Engaging in anal sex with a character who has never been anally penetrated before, or being anally penetrated while playing a character that has never been penetrated before.
-* Anal sex/pegging
-? Being penetrated by a partner, with a penis or strap-on
-* Double penetration
-? The act of penetrating a single character's anus with two objects, including but not limited to the penis, sex toys, fist etc., or receiving such.
+? Словесное и/или физическое выражение признательности партнеру за его задницу или ягодицы, а также получение таких действий.
+* Анальный фистинг
+? Акт введения руки и/или кисти в анус партнера или получение таких действий.
+* Анальный тренинг
+? Использование различных анатомических особенностей ануса персонажа для подготовки и/или акклиматизации персонажа к введению, размер которого персонаж в противном случае не смог бы принять.
+* Анальные игрушки
+? Означает включение анального проникновения с помощью секс-игрушек, включая, но не ограничиваясь, дилдо, вибраторы, анальные яйца, анальные бусы и т.д.
+* Анальная девственность
+? Занятие анальным сексом с персонажем, который никогда ранее не подвергался анальному проникновению, или анальное проникновение во время игры персонажа, который никогда ранее не подвергался такому проникновению.
+* Анальный секс/пеггинг
+? Проникновение в партнера с помощью пениса или страпона.
+* Двойное проникновение
+? Акт проникновения в анус одного персонажа двумя предметами, включая, но не ограничиваясь, пенис, секс-игрушки, кулак и т.д., или получение таковых.
 * Enemas
-? The application of a liquid, typically warm water or a body fluid, to the intestines of a character, often to clean them out, but sometimes as a form of discipline or sexual gratification, or receiving such actions; might imply a form of administration other than phallic penetration.
+? Впрыскивание жидкости, обычно теплой воды или жидкости из организма, в кишечник персонажа, часто для его очистки, но иногда как форма дисциплины или сексуального удовлетворения, или получение таких действий; может подразумевать форму введения, отличную от фаллического проникновения.
 * Rimming
-? The act of giving oral stimulation to a partner's anus, by the means of licking and/or penetrating the recipient's anus with the tongue.
+? Акт оральной стимуляции ануса партнера путем облизывания и/или проникновения языком в анус получателя.
 * Gaping (Anal)
-? Stretching the anus during penetration, to the point that it stays open for a period of time.
+? Растягивание ануса во время проникновения до такой степени, что он остается открытым в течение некоторого времени.
 
 #Restrictive
-(Self, Partner)
-* Bondage (Light)
-? The use of bondage that is mild or moderate in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
-* Bondage (Heavy)
-? The use of bondage that is extreme in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
-* Chastity
-? Sexual abstinence, either willing or forced; this can include someone simply abstaining from sexual activity, or the wearing of a device that prevents it.
-* Collar
-? Wearing a collar around the neck
-* Encasement
-? one’s whole body being wrapped up like a mummy in a latex suit, sleepsack, or other fetish gear for the purposes of sexual gratification.
-* Gag
-? The act of placing and lodging an object in another character's mouth to force him or her to breathe through his or her nose, as well as creating the inability to speak, or receiving such actions.
-* Leash
-? Being lead around on a leash
+(Самостоятельно, с партнером)
+* Бондаж (легкий)
+? Использование бондажа, который является легким или умеренным либо по положению, в котором находится связанный персонаж, либо по продолжительности нахождения персонажа в бондаже, либо по степени дискомфорта, вызванного бондажом, либо по степени обездвиживания, которое происходит из-за бондажа.
+* Бондаж (тяжелый)
+? Использование бондажа, который является экстремальным либо по положению, в котором находится связанный персонаж, либо по продолжительности нахождения персонажа в бондаже, либо по уровню дискомфорта, вызванного бондажом, либо по степени обездвиживания, вызванного бондажом.
+* Целомудрие
+? Сексуальное воздержание, добровольное или вынужденное; оно может включать в себя простое воздержание от половой жизни или ношение устройства, препятствующего этому.
+* Ошейник
+? Ношение ошейника на шее
+* Охват
+Закутывание всего тела, как мумии, в латексный костюм, спальный мешок или другое фетиш-снаряжение с целью сексуального удовлетворения.
+* Кляп
+? Действие, заключающееся в помещении и закладывании какого-либо предмета в рот другому персонажу с целью заставить его или ее дышать через нос, а также создать неспособность говорить или получить подобные действия.
+* Поводок
+? Вести за собой на поводке
 
 #Toys
-(Self, Partner)
+(Себя, партнера)
 * Dildos
-? an object shaped like an erect penis used for sexual stimulation.
-* Plugs
-? a sex toy of a type designed to be inserted into the rectum.
-* Sounding
-? The act of inserting metal rods into a male or female's urethra, or receiving such actions; technically implies rods that resonate and/or vibrate in response to a form of stimulation, but does not necessarily mean so.
+? предмет, по форме напоминающий эрегированный пенис, используемый для сексуальной стимуляции.
+* Заглушки
+? секс-игрушка, предназначенная для введения в прямую кишку.
+* Звуки
+? Акт введения металлических стержней в уретру мужчины или женщины или получение таких действий; технически подразумевает стержни, которые резонируют и/или вибрируют в ответ на какую-либо форму стимуляции, но не обязательно означает именно это.
 * Strap-ons
-? Engaging in an RP in which at least one character will wear a strap-on to penetrate another character.
-* Vibrators
-? a vibrating device used for sexual stimulation.
+? Участие в РП, в котором хотя бы один персонаж будет носить страпон для проникновения в другого персонажа.
+* Вибраторы
+? вибрирующее устройство, используемое для сексуальной стимуляции.
 
-#Domination
-(As Dominant, As Submissive)
+#Доминирование
+(Как доминант, как сабмиссив)
 * General Dom / General Sub
-? Catchall for Dominant/Submissive Activities.
+? Обобщенное обозначение действий доминанта/субмиссии.
 * Domestic servitude
-? Being served by a butler, waitress, chauffeur, maid or housekeeper, or serving as one.
+? Быть обслуживаемым дворецким, официанткой, шофером, горничной или экономкой, или служить в качестве такового.
 * DD/lg, MD/lb
-? Daddy or Mommy Dom/ Littly Girl or Boy. The daddy/mommy is the more dominant half of the relationship, the little is the more submissive.
-* Discipline
-? The use of reinforcement (rewards and/or punishments) in order to train a submissive to obey the various commands of a master.
-* Forced orgasm
-? A forced orgasm is consensual BDSM or kinky sexual play whereby a person consents to be forced to orgasm in a way that is beyond their control.
-* General Dominant / Submissive
-* Immobilization
-? Engaging in an RP in which at least one character will be entirely, physically immobilized by any means, often heavy bondage or mummification; typically involved in BDSM play.
-* Orgasm control
-? Refers to the dominant being in control of when the submissive achieves orgasm, either by physical means or by command; typically involves domination and/or excessive teasing and edging; orgasm may be completely denied.
-* Orgasm denial
-? Refers to the dominant denying the submissive orgasm.
-* Power exchange
-? A relationship with service at the core.
-* Pet play
-? Petplay is a in role in which the focus is on the sub entering the altered mind space of a different species, often a dog, cat, or horse.
-* Slavery
-? Serving as the dominant's beck and call, or recieving such service, without choice.
+? Папа или мама-доминант/маленькая девочка или мальчик. Папа/мама - более доминирующая половина отношений, малыш - более покорная.
+* Дисциплина
+? Использование подкрепления (поощрения и/или наказания) для того, чтобы приучить сабмиссива повиноваться различным командам хозяина.
+* Принудительный оргазм
+? Принудительный оргазм - это соглашательская BDSM или извращенная сексуальная игра, в которой человек соглашается на то, чтобы его принудили к оргазму способом, который он не может контролировать.
+* Общий доминант / сабмиссив
+* Иммобилизация
+? Участие в RP, в котором по крайней мере один персонаж будет полностью, физически обездвижен любым способом, часто тяжелым бондажом или мумификацией; обычно используется в BDSM-играх.
+* Контроль оргазма
+? Означает, что доминант контролирует момент достижения сабмиссивом оргазма либо физическими средствами, либо по команде; обычно предполагает доминирование и/или чрезмерное поддразнивание и одергивание; оргазм может быть полностью отменен.
+* Отказ в оргазме
+? Относится к доминанту, отказывающему сабмиссиву в оргазме.
+* Обмен властью
+? Отношения, в основе которых лежит служение.
+* Игра с домашними животными
+? Petplay - это ролевая игра, в которой основное внимание уделяется вхождению сабжа в измененное пространство сознания другого вида, часто собаки, кошки или лошади.
+* Рабство
+? Служение по приказу доминанта или получение такого служения без выбора.
 
-#No consent
-(Aggressor, Target)
-* Blackmail / coercion
-? Refers to the inclusion of Coercion and/or Blackmail in the context of the story arc of an RP, often in the form of a semi-consensual means of receiving sex from a partner.
-* Dubious consent
-? situations where one partner's consent is in question, though not outright rape.
-* Drugs
-? The use of illicit drugs in the context of an RP, typically to disorientate or otherwise mentally incapacitate a character, or to elevate the sensations of sex.
-* Alcohol
-? The use of alcohol in the context of an RP, typically to disorientate or otherwise mentally incapacitate a character, or to elevate the sensations of sex.
-* Kidnapping
-? The act of abducting a character in an RP for the purpose of abusing, often sexually, or being abducted for such reasons; often implies indefinite imprisonment.
+* Без согласия
+(Агрессор, Объект)
+* Шантаж / принуждение
+? Относится к включению принуждения и/или шантажа в контекст сюжетной линии РП, часто в виде полуконсенсуального способа получения секса от партнера.
+* Сомнительное согласие
+Ситуации, когда согласие одного из партнеров находится под вопросом, хотя и не является прямым изнасилованием.
+* Наркотики
+? Использование запрещенных препаратов в контексте РП, как правило, для дезориентации или иного психического воздействия на персонажа, а также для усиления ощущений от секса.
+* Алкоголь
+? Использование алкоголя в контексте РП, как правило, для дезориентации или иного психического расстройства персонажа, или для усиления ощущений от секса.
+* Похищение
+? Акт похищения персонажа в РП с целью насилия, часто сексуального, или похищение с этой целью; часто подразумевает бессрочное заключение.
 * Non-con / rape
-? taking/being taken against one's will, often through force
-* Sleep play
-? Engaging in sexual acts with an unconscious/asleep partner
+* Взятие/похищение против воли, часто с применением силы
+* Игра в сон
+? сексуальные действия с партнером, находящимся в бессознательном/сонном состоянии.
 
 #Taboo
-(General)
-* Age Gap
-? Refers to scenes in which there is a signifigant gap in the ages of characters.
-* Bestiality
-? Refers to a sapient character engaging in a sexual act with a non-sapient animal, or playing a non-sapient animal in an RP and being engaged by a sapient character.
-* Cheating
-? Where one or both partners are being unfaithful to significant others.
-* Exhibitionism
-? Engaging in an RP in which the setting is of a public nature; typically used in conjunction with exhibitionism and/or humiliation.
-* Incest
-? Engaging in an RP in which at least two characters will be related
-* Interracial
-? Scenes based on interracial interactions without relying on racial stereotypes.
-* Raceplay
-? Scenes based on racial stereotypes or racism, including scenes set in racist settings.
-* Necrophilia
-? The act of having sex with a dead, or otherwise unconscious or inanimate, character that was once alive, or, theoretically, receiving such actions.
-* Voyeurism
-? Refers to the derivation of sexual stimulation from either/or the action of watching, typically in secret, a person (or people) reveal themselves or do something otherwise explicit, or the act of revealing one's self and/or doing something otherwise explicit with the intent to be viewed.
+(Общее)
+* Разница в возрасте
+? Относится к сценам, в которых существует значительная разница в возрасте персонажей.
+* Бестиализм
+? Означает, что сапиентный персонаж вступает в сексуальный акт с несапиентным животным, или играет несапиентное животное в RP, а занимается им сапиентный персонаж.
+* Измена
+? Когда один или оба партнера неверны друг другу.
+* Эксгибиционизм
+? Участие в РП, при котором обстановка носит публичный характер; обычно используется в сочетании с эксгибиционизмом и/или унижением.
+* Инцест
+? Участие в РП, в котором по крайней мере два персонажа будут родственниками
+* Межрасовый
+? Сцены, основанные на межрасовом взаимодействии, не опирающиеся на расовые стереотипы.
+* Расовая игра
+? Сцены, основанные на расовых стереотипах или расизме, включая сцены, поставленные в расистских условиях.
+* Некрофилия
+? Акт секса с мертвым или находящимся в бессознательном или неодушевленном состоянии персонажем, который когда-то был живым, или, теоретически, получающим такие действия.
+* Вуайеризм
+? Означает получение сексуального возбуждения либо от наблюдения, обычно тайного, за тем, как человек (или люди) раскрывает себя или делает что-то откровенное, либо от раскрытия себя и/или выполнения чего-то откровенного с намерением, чтобы на это смотрели.
 
-#General Surrealism
-(Self, Partner)
-* Breast Growth
-? A situation in which at least one character's female breasts grow in size, typically to fantastical proportions, by any means, including but not limited to magical or chemical.
-* Cock/Ball Growth
-? A situation in which at least one character's male penis and testicles grow in size, typically to fantastical proportions, by any means, including but not limited to magical or chemical infusion or due to sexual fluids becoming blocked or otherwise obstructed.
-* Cum Inflation (Heavy/Extreme)
-? Engaging in an RP in which at least one character is filled with an impossible amount of semen, typically directly from the penis due to anal, vaginal or oral sex, causing his or her stomach and/or body to expand to fantastical sizes.
+#Общий сюрреализм
+(Себя, партнера)
+* Рост груди
+? Ситуация, в которой женская грудь хотя бы одного персонажа увеличивается в размерах, обычно до фантастических пропорций, любым способом, включая, но не ограничиваясь, магическим или химическим.
+* Рост члена/шара
+? Ситуация, в которой мужской пенис и яички хотя бы одного персонажа увеличиваются в размерах, как правило, до фантастических пропорций, любым способом, включая, но не ограничиваясь магическими или химическими вливаниями, или в результате закупорки или иного препятствия для половых жидкостей.
+* Надувание спермы (тяжелое/экстремальное)
+? Участие в РП, в котором хотя бы один персонаж наполняется невозможным количеством спермы, обычно непосредственно из полового члена, в результате анального, вагинального или орального секса, что приводит к увеличению его живота и/или тела до фантастических размеров.
 * Cum Inflation (Light/Medium)
-? Engaging in an RP in which at least one character is filled with a massive amount of semen, typically directly from the penis due to anal, vaginal or oral sex, causing his or her stomach and/or body to bulge or become somewhat round.
-* Extreme Pregnancy
-? The act of becoming pregnant with an incredible or unrealistic size and/or number of fetuses/eggs, often in an unrealistically short time span, and often to the point of immobility, or engaging in an RP in which at least one character fits such a description.
-* Forced Growth
-? Expresses an interest in which at least one character will be forced to endure any part(s) of his/her body growing against his/her will, typically as a side-effect of magic or chemical alteration, or as an unwelcome response to certain stimuli.
+? Участие в RP, в котором хотя бы один персонаж наполняется огромным количеством спермы, обычно непосредственно из полового члена в результате анального, вагинального или орального секса, в результате чего его живот и/или тело становятся выпуклыми или несколько круглыми.
+* Экстремальная беременность
+? Акт беременности невероятным или нереальным размером и/или количеством плодов/яиц, часто за нереально короткий промежуток времени, и часто до неподвижности, или участие в RP, в котором хотя бы один персонаж подходит под это описание.
+* Принудительный рост
+? Выражает заинтересованность в том, чтобы хотя бы один персонаж был вынужден терпеть рост какой-либо части (частей) своего тела против своей воли, обычно как побочный эффект магического или химического воздействия или как нежелательную реакцию на определенные раздражители.
 * Furry
-? Anthropomorphic animal characters.
+? Антропоморфные персонажи-животные.
 * Futanari/Futa
-? characters who have an overall feminine body, but have both female and male genitalia (although testicles are not always present)
+? Персонажи, имеющие в целом женское телосложение, но обладающие как женскими, так и мужскими гениталиями (хотя яички присутствуют не всегда)
 * Ghost
-? The formerly living, not currently in posession of a body
-* Growth
-? Growing in body size by magical, medicinal, or otherwise fantastic means.
-* Hyper Muscle Growth
-? Increasing the size or strength of one's muscles to excessive or impossible degrees.
-* Inflation (Heavy/Extreme)
-? Engaging in an RP in which at least one character is filled with an impossible amount of a substance other than a bodily fluid, typically a gas or liquid, causing his or her stomach and/or body to expand to fantastical sizes.
-* Inflation (Light/Medium)
-? Engaging in an RP in which at least one character is filled with a massive amount of a substance other than a bodily fluid, typically a gas or liquid, causing his or her stomach and/or body to bulge or become somewhat round.
-* Macrophilia
-? Expresses an interest in characters that are incredibly and unrealistically tall.
-* Magic Users
-? RPs involving characters that are capable of performing magical or supernatural feats that may or may not be sexual in nature; typically refers to transformation or mind control-related play.
-* Male Pregnancy
-? The act of a male character becoming pregnant during the course of an RP, or engaging in an RP in which at least one male character is pregnant.
-* Microphilia
-? Expresses an interest in characters that are impossibly and unrealistically small.
-* Monster or Alien
-? Various types of monsters, Extraterrestrials, and aesthetically challenging characters.
-* Multiple Breasts
-? Expresses an interest in characters that have more than one pair of breasts, typically found on canine females.
-* Muscle Growth
-? Increasing the size or strength of one's muscles by magical, medicinal, or other fantastic means.
-* Nipple Penetration
-? The act of penetrating the nipple, often deep into the breast, with an object such as a finger, sex toy or penis, etc, or receiving such actions.
-* Oviposition
-? Engaging in an RP in which at least one character will lay eggs through an orifice.
+? Бывшие живые, не обладающие в настоящее время телом.
+* Рост
+? Увеличение размеров тела с помощью магических, лекарственных или иных фантастических средств.
+* Гипермышечный рост
+? Увеличение размеров или силы мышц до чрезмерной или невозможной степени.
+* Надувание (тяжелое/экстремальное)
+? Ролевая игра, в которой хотя бы один персонаж наполняется невозможным количеством вещества, отличного от жидкости, обычно газа или жидкости, в результате чего его живот и/или тело увеличиваются до фантастических размеров.
+* Инфляция (легкая/средняя)
+? Участие в РП, в котором хотя бы один персонаж наполняется огромным количеством вещества, не являющегося телесной жидкостью, обычно газом или жидкостью, в результате чего его живот и/или тело выпячиваются или становятся несколько круглыми.
+* Макрофилия
+? Проявляет интерес к персонажам невероятно и нереально высокого роста.
+* Пользователи магии
+? Ролевые игры с участием персонажей, способных совершать магические или сверхъестественные подвиги, которые могут быть или не быть сексуальными по своей природе; обычно относятся к трансформации или контролю сознания.
+* Мужская беременность
+? Действие, при котором персонаж мужского пола беременеет в ходе РП или участвует в РП, в котором хотя бы один персонаж мужского пола беременный.
+* Микрофилия
+? Проявление интереса к персонажам, которые неправдоподобно и нереально малы.
+* Монстр или инопланетянин
+? Различные виды монстров, инопланетян, а также персонажи, вызывающие эстетическое недовольство.
+* Множественная грудь
+? Проявляет интерес к персонажам, имеющим более одной пары грудей, обычно встречающихся у клыкастых самок.
+* Рост мышц
+? Увеличение размера или силы мышц с помощью магических, лекарственных или других фантастических средств.
+* Проникновение в соски
+? Акт проникновения в сосок, часто глубоко в молочную железу, с помощью какого-либо предмета, например пальца, секс-игрушки или пениса и т.д., или получение таких действий.
+* Яйцекладка
+? Ролевая игра, в которой хотя бы один персонаж откладывает яйца через отверстие.
 * Popping
-? The act of causing a part of a character's anatomy, or the entire character, to explode by means of ballooning or inflation, or being the recipient of such actions.
+? Действие, заставляющее часть анатомии персонажа или всего персонажа взорваться путем надувания или раздувания, или быть получателем таких действий.
 * Prehensile Cocks
-? Expresses an interest in characters that have the ability to control the motion of their penises.
-* Rubber/Gel Characters
-? Expresses an interest in characters who are composed of rubber, latex, gel or an otherwise elastic material.
-* Sentient Cocks
-? Engaging in an RP in which a player has a cock which is sentient. It might have the ability to twist and coil, move by itself, the external urethral orifice able to open and close at will. Can be related to cock vore, but not neccesarily. Some may prefer it to have the appearance of a snake.
-* Shrinking
-? Reducing in body size, usually a reduction of about one foot in size, or being the receiver of such actions.
-* Tentacles
-? Engaging in an RP in which self-sentient tentacles or tentacle-like appendages will penetrate a character; often implies multiple penetration.
-* Transformation
-? The act of causing the physical characteristics of a participant of an RP, possibly including one's self, by magical or chemical means, to change in a dramatic fashion; may refer to a myriad of different types of transformations, and connotates receiving sexual pleasure from the act of transformation itself.
+? Выражает интерес к персонажам, обладающим способностью управлять движением своего члена.
+* Резиновые/гелевые персонажи
+? Проявляет интерес к персонажам, состоящим из резины, латекса, геля или другого эластичного материала.
+* Чувствующие члены
+? Участие в RP, в котором у игрока есть член, который является разумным. Он может иметь способность скручиваться и сворачиваться, двигаться сам по себе, наружное отверстие уретры может открываться и закрываться по желанию. Это может быть связано с петушиным вором, но не обязательно. Некоторые предпочитают, чтобы он имел вид змеи.
+* Сокращение
+? Уменьшение размеров тела, обычно примерно на один фут, или получение таких действий.
+* Щупальца
+? Участие в РП, в котором самоощущаемые щупальца или щупальцеподобные придатки проникают в персонажа; часто подразумевает множественное проникновение.
+* Трансформация
+? Акт изменения физических характеристик участника ролевой игры, возможно, включая его самого, с помощью магических или химических средств; может относиться к огромному количеству различных типов трансформаций и подразумевает получение сексуального удовольствия от самого акта трансформации.
 
 # Vore / Unbirth
-(General)
-* Absorption
-? Vore by means of merging with the predator, or being absorbed and/or dissolved by an anatomical fluid of the predator.
+(Общие сведения)
+* Поглощение
+? Поглощение путем слияния с хищником или поглощения и/или растворения в анатомической жидкости хищника.
 * Alternative Vore
-? The act of physically consuming another character, performed through an orifice other than the mouth, penis, vagina or anus, or receiving such actions.
-* Anal Vore
-? Vore where something or someone is swallowed into the anus.
+? Акт физического поглощения другого персонажа, осуществляемый через отверстие, отличное от рта, пениса, влагалища или ануса, или получение таких действий.
+* Анальное отверстие
+? Порок, при котором что-то или кто-то заглатывается в анус.
 * Cock Vore
-? The act of physically consuming another character, performed through the penis, often resulting in the prey character being lodged into the testicles, or being the recipient of such actions.
+? Акт физического поглощения другого персонажа, осуществляемый через пенис, часто приводящий к тому, что персонаж-жертва оказывается в яичках или становится получателем таких действий.
 * Digestion
-? Engaging in a vore-related RP in which the prey character will be digested in whatever fluid(s) are applicable.
-* Disposal
-? Engaging in a vore-related RP in which the prey will be consumed, digested and released as fecal matter and/or urine.
+? Участие в RP, связанном с vore, в котором персонаж-жертва будет переварен в любой жидкости (жидкостях).
+* Утилизация
+? В ходе vore-related RP добыча будет съедена, переварена и выведена в виде фекалий и/или мочи.
 * Hard Vore
-? Engaging in vore in which the prey character is chewed and/or eaten piece by piece, or otherwise physically mutilated by the act of being consumed.
+? Участвовать в vore, в котором персонаж-жертва пережевывается и/или съедается по частям, или иным образом физически изувечивается в процессе поедания.
 * Realistic Vore
-? Engaging in a vore scene in which realistic physiology is taken into account; typically connotates hard vore and digestion.
+? Сцена, в которой учитываются реалистичные физиологические особенности; обычно подразумевается жесткая порция и пищеварение.
 * Soft Vore
-? Engaging in vore in which the prey character is consumed whole, causing no or minimal damage to the character due to the vore process.
+? Сцена, в которой персонаж-жертва съедается целиком, не причиняя персонажу никакого или минимального вреда в процессе поедания.
 * Unbirthing
-? The act of physically consuming another character through the vagina and into the womb, or being the recipient of such actions.
+? Акт физического поглощения другого персонажа через влагалище и в утробу матери, а также сам факт такого поглощения.
 * Unrealistic Vore
-? Engaging in a vore scene in which realistic physiology is not taken into account; typically connotates soft vore.
+? Вовлечение в vore-сцену, в которой не учитывается реалистичная физиология; обычно подразумевается soft vore.
 * Vore - Being Predator
-? Being the consuming partner in a vore or unbirth situation, acting as the predator.
+? Потребляющий партнер в ситуации vore или unbirth, выступающий в роли хищника.
 * Vore - Being Prey
-? Being the consumed partner in a vore-related RP situation.
+? Быть потребляемым партнером в RP-ситуации, связанной с vore.
 
 #Fluids
-(General)
+(Общие)
 * Blood
-? Pertains to the inclusion of blood or the retrieval of blood in any form in a sexual context, or engaging in acts which will draw blood.
+? Относится к включению крови или получению крови в любой форме в сексуальном контексте, а также к действиям, в результате которых появляется кровь.
 * Cum play
-? Any number of situations focused on playing with cum.
-* Diapers
-? A situation in which at least one character will wear a diaper; typically implies that the diaper will be soiled with urine and/or fecal matter, usually in conjunction with age play or infantilism, but sometimes in conjunction with humiliation.
-* Lactation
-? The act of producing milk from one's breasts, or engaging in sex with a character that produces milk from one's breasts, typically in response to sexual stimulation, and any play that will emanate thereof.
-* Messy
-? Engaging in an RP in which the sexual portion of the RP is set in a venue in which a large amount of liquids, which may be bodily fluids, will be involved, such as but not limited to mud, food, snot or slime.
-* Saliva
-? Interest in roleplay that prominently includes saliva. This may refer to excessive secretion and great appreciation of it.
-* Scat
-? Pertains to the inclusion of fecal matter or the expelling of fecal matter in any form in the sexual context of an RP.
+? Любое количество ситуаций, ориентированных на игру с кончиной.
+* Подгузники
+? Ситуация, в которой хотя бы один из персонажей носит подгузник; обычно подразумевается, что подгузник будет испачкан мочой и/или фекалиями, обычно в сочетании с возрастной игрой или инфантилизмом, но иногда в сочетании с унижением.
+* Лактация
+? Акт выделения молока из груди или половой акт с персонажем, у которого выделяется молоко из груди, обычно в ответ на сексуальную стимуляцию, и любая игра, которая будет вытекать из этого.
+* Грязный
+? Участие в РП, в котором сексуальная часть РП происходит в месте, где присутствует большое количество жидкостей, которые могут быть телесными жидкостями, например, грязь, еда, сопли или слизь, но не только.
+* Слюна
+? Интерес к ролевым играм, в которых активно используется слюна. Это может относиться как к чрезмерному выделению, так и к большому ее количеству.
+* Кал
+? Относится к включению фекалий или выделению фекалий в любой форме в сексуальном контексте ролевой игры.
 * Sweat
-? The act of sweating and/or receiving sexual gratification from the appearance, taste, scent and/or tactility of sweat.
-* Watersports
-? Pertains to the inclusion of urine, or the expelling of urine, in any form, in the sexual context of an RP.
+? Акт потоотделения и/или получение сексуального удовлетворения от вида, вкуса, запаха и/или тактильных ощущений пота.
+* Водный спорт
+? Относится к включению мочи или выделению мочи в любой форме в сексуальный контекст РП.
 
-#Degradation
-(Giving, Receiving)
-* Begging
-? The self-abasing act of pleading, as a form of submission, being incorporated into an RP.
+#Деградация
+(Дающий, получающий)
+* Попрошайничество
+? Самоуничижительный акт мольбы, как форма подчинения, включенный в RP.
 * Cock Slapping
-? The act of using one's penis to slap one's partner and/or being slapped by a penis, usually in order to humiliate or debase a bottom prior to or during fellatio.
-* Forced Nudity
-? The act of either forcing a character to be nude or being forced to be nude by another character; typically used in public situations.
-* Force Feeding
-? Engaging in an RP in which a character, typically bound or otherwise immobile, is forced to consume large, often impossible and unrealistic, amounts of food against his or her will, often resulting in inflation and/or weight gain.
+? Акт использования своего пениса для нанесения пощечин партнеру и/или получения пощечин от пениса, обычно с целью унизить или унизить нижнего до или во время фелляции.
+* Принудительное обнажение
+? Принуждение персонажа к обнажению или принуждение другого персонажа к обнажению; обычно используется в публичных ситуациях.
+* Принудительное кормление
+? Ролевая игра, в которой персонаж, обычно связанный или иным образом обездвиженный, вынужден против своей воли потреблять большое, часто невозможное и нереальное количество пищи, что часто приводит к инфляции и/или увеличению веса.
 * Glory hole
-? Servicing a partner or recieving service from a partner with a physical barrier between the participants
-* Humiliation
-? Engaging in an RP in which one character will be embarrassed, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more intense form of degradation.
-* Name calling
-? Engaging in an RP in which one character will be called names, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment.
-* Verbal Abuse
-? The act of verbally accosting or being verbally accosted with derogatory terms pertaining to sex, or in the effort to demean, degrade or otherwise humiliate another character, or occasionally to elicit sexual stimulation from abuse.
+? Обслуживание партнера или получение услуг от партнера при наличии физического барьера между участниками.
+* Унижение
+? Участие в RP, в котором один из персонажей будет смущен, обычно чрезвычайно и/или часто, в попытке вызвать либо реакцию сексуального удовлетворения от эмоций, связанных с унижением, либо просто как форму психологического доминирования или наказания; обычно более интенсивная форма деградации.
+* Обзывательство
+? Ролевая игра, в которой персонажа обзывают, пытаясь вызвать либо реакцию сексуального удовлетворения от эмоций, связанных с унижением, либо просто как форму психологического доминирования или наказания.
+* Вербальное оскорбление
+? Акт словесного обращения к другому персонажу с уничижительными терминами, относящимися к сексу, или в попытке унизить, принизить или иным образом унизить другого персонажа, а иногда и с целью вызвать сексуальное возбуждение от оскорбления.
 
 #Touch & Stimulation
 (Actor, Subject)
-* Ass worship
-? Gratuitous acknowledgment of one's partner's ass, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Cock/Pussy worship
-? Gratuitous acknowledgment of one's partner's genitalia, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Electro stimulation
-? The use of sex toys that carry an electrical current; sometimes painful.
+* Поклонение заднице
+? Словесное и/или физическое признание попки партнера или получение таких действий; обычно подразумевает оральную стимуляцию.
+* Поклонение члену/киске
+? Словесное и/или физическое признание гениталий партнера или получение таких действий; обычно подразумевает оральную стимуляцию.
+* Электростимуляция
+? Использование секс-игрушек, через которые пропускается электрический ток; иногда болезненно.
 * Foot play
-? The act of incorporating the feet or feet paws into the sexual context of an RP, including but not limited to the worshiping of feet, receiving sexual gratification from the sight or smell of feet and/or humping feet, sometimes to the point of orgasm.
+? Акт включения ног или лап в сексуальный контекст РП, включая, но не ограничиваясь, поклонение ногам, получение сексуального удовлетворения от вида или запаха ног и/или битье по ногам, иногда до оргазма.
 * Sensation play
-? Sensation play describes a wide variety of activities, both vanilla and kinky, that use the body's senses as a way to arouse and provide stimulation to a partner. Although sensation play is often related to skin sensations, it doesn't have to be so limited. Sight, taste, and hearing can also be included in sensation play.
-* Tickling
-? The act of tickling and/or being tickled in a sexual context of an RP; or, receiving sexual stimulation from such.
+? Игра с ощущениями описывает широкий спектр действий, как ванильных, так и извращенных, которые используют органы чувств тела для возбуждения и стимуляции партнера. Хотя игры с ощущениями часто связаны с кожными ощущениями, они не обязательно должны быть такими ограниченными. Зрение, вкус и слух также могут быть включены в игру с ощущениями.
+* Щекотка
+? Акт щекотания и/или щекотки в сексуальном контексте РП; или получение сексуальной стимуляции от этого.
 
-#Misc. Fetish
-(Giving, Receiving)
-* Breast/Nipple Worship
-? Gratuitous acknowledgement of one's partner's chest or nipples, either verbal and/or physical, or receiving such actions.
-* Breath play
-? A situation in which at least one character will have physical control over the breathing habits of another character, often by either intermittent choking and/or due to the penetration of the throat.
+#Прочий Фетиш
+(Дающий, Получающий)
+* Поклонение груди/соскам
+? Словесное и/или физическое признание груди или сосков партнера или получение таких действий.
+* Игра с дыханием
+? Ситуация, в которой по крайней мере один персонаж физически контролирует дыхание другого персонажа, часто путем периодического удушения и/или проникновения в горло.
 * Breeding
-? Entails the act sexual intercourse for the sole purpose of inducing pregnancy and/or producing offspring.
+? Представляет собой половой акт с единственной целью - вызвать беременность и/или произвести на свет потомство.
 * Crotch Sniffing
-? The act of receiving pleasure from inhaling the scent of the crotch, or receiving such actions. Emphasis is often placed on the musk and/or pheromone-related properties of the scent.
+? Акт получения удовольствия от вдыхания запаха промежности или получения подобных действий. Часто акцент делается на мускусных и/или феромонных свойствах запаха.
 * Cuckold / Cuckquean
-? Refers to the act of a character who, within the confines of the RP world has been designated to be in a relationship, will have sexual interaction with a character other than the one who has been predetermined to be in a relationship, in the context of the RP.
-* Double Penetration
-? The act of penetrating a single character with two objects, including but not limited to the penis, sex toys, fist etc., or receiving such.
-* Extreme Tightness
-? Engaging in an RP in which at least one character exhibits exceptional tightness in his or her anus, vagina or throat; sometimes implies pain, exceptionally large penetrations and/or inexperience.
-* Feminization
-? Feminization is a type of role play that involves imposing traditionally female attributes onto a submissive male partner. It may also involve an adoption of traditionally feminine behaviors and mannerisms.
-* Fisting
-? The act of placing one's hand(s) and/or arm(s) into a vagina, or receiving such actions.
+? Относится к действиям персонажа, который в рамках мира RP, определенного как состоящий в отношениях, вступает в сексуальное взаимодействие с персонажем, отличным от того, который был определен как состоящий в отношениях, в контексте RP.
+* Двойное проникновение
+? Акт проникновения в одного персонажа двумя предметами, включая, но не ограничиваясь, пенис, секс-игрушки, кулак и т.д., или получение таковых.
+* Экстремальная теснота
+? Участвовать в РП, в котором хотя бы один персонаж демонстрирует исключительную тугость в анусе, влагалище или горле; иногда подразумевает боль, исключительно большие проникновения и/или неопытность.
+* Феминизация
+? Феминизация - это тип ролевой игры, предполагающий навязывание традиционно женских атрибутов покорному партнеру-мужчине. Она также может включать в себя принятие традиционно женских форм поведения и манер.
+* Фистинг
+? Акт введения руки (рук) во влагалище или получение таких действий.
 * Food Play
-? The act of incorporating food into the sexual context of an RP, including but not limited to force-feeding, use of whipped cream or chocolate sauce or receiving sexual gratification from the act of eating; typically implies incredible and/or unrealistically large amounts of food being consumed.
+? Акт включения еды в сексуальный контекст RP, включая, но не ограничиваясь, насильственным кормлением, использованием взбитых сливок или шоколадного соуса или получением сексуального удовлетворения от процесса еды; обычно подразумевает невероятное и/или нереально большое количество потребляемой пищи.
 * Foot Play
-? The act of incorporating the feet or feet paws into the sexual context of an RP, including but not limited to the worshiping of feet, receiving sexual gratification from the sight or smell of feet and/or humping feet, sometimes to the point of orgasm.
-* Foreskin Worship
-* Gangbang
-? When multiple partners, usually 3 or more, engage in sexual intercourse with a single willing partner.
-? Gratuitous acknowledgment of one's partner's foreskin, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Genital/Nipple Piercings
-? Engaging in an RP in which at least one character has piercings that are located on the nipples or sexual areas of the body; typically cock piercings.
-* Muscle Worship
-? Gratuitous acknowledgment of someone's muscular physique, either verbal or physical.
+? Акт включения ног или лап в сексуальный контекст РП, включая, но не ограничиваясь, поклонение ногам, получение сексуального удовлетворения от вида или запаха ног и/или битье ногами, иногда до оргазма.
+* Поклонение крайней плоти
+* Гангбанг
+? Когда несколько партнеров, обычно 3 и более, вступают в половой акт с одним желающим партнером.
+? Словесное и/или физическое признание крайней плоти партнера или получение таких действий; обычно подразумевает оральную стимуляцию.
+* Пирсинг гениталий/сосков
+? Участие в РП, в котором хотя бы один персонаж имеет пирсинг, расположенный на сосках или сексуальных зонах тела; обычно пирсинг на члене.
+* Поклонение мышцам
+? Словесное или физическое признание мускулистого телосложения кого-либо.
 * Musk
-? Refers to an RP involving characters that are exceptionally musky; typically implies pheromones derived from the crotch, which may or may not lack hygiene to any degree.
-* Onomatopoeia
-? Engaging in an RP, or getting turned on by an emphasis on exaggerated descriptions of sexual noises in a roleplay, usually described with onomatopoeia, words that seek to duplicate the sounds they describe. Often refers to fluid noises such as: slosh, splurt, squirt, gurgle, splortch, or others.
+? Относится к РП с персонажами, обладающими исключительным мускусным запахом; обычно подразумевает феромоны, исходящие из промежности, которая может быть или не быть недостаточно гигиеничной в той или иной степени.
+* Ономатопея
+? Вовлечение в ролевую игру или возбуждение от акцента на преувеличенном описании сексуальных звуков в ролевой игре, обычно описываемых с помощью ономатопеи - слов, которые стремятся повторить звуки, которые они описывают. Часто относится к жидким звукам, таким как: slosh, splurt, squirt, gurgle, splortch или другим.
 * Pregnancy
-? Fetishizing a pregnant character
-* Queefing
-? The sounds of air expulsion via intercourse.
-* Sexual Exhaustion
-? Engaging in an RP in which at least one character's genitals and/or orifice(s) endure pain due to exceptionally arduous sex or sex of an exceptional duration; implies continuing despite such.
-* Sexual Frustration
-? Engaging in an RP in which at least one character is exceptionally desperate or horny and is often willing to eschew standard inhibitions in order to receive sexual stimulation.
-* Shaving
-? Engaging in the removal of fur/hair from a participant in an RP by the means of shaving.
+? Фетишизация беременной героини
+* Квифинг
+? Звуки извержения воздуха при половом акте.
+* Сексуальное истощение
+? Участие в РП, в котором гениталии и/или отверстие (отверстия) хотя бы одного персонажа испытывают боль из-за исключительно тяжелого секса или секса исключительной продолжительности; подразумевает продолжение, несмотря на это.
+* Сексуальная неудовлетворенность
+? Участие в РП, в котором хотя бы один персонаж испытывает исключительное отчаяние или возбуждение и часто готов отказаться от стандартных запретов, чтобы получить сексуальную стимуляцию.
+* Бритье
+? Участие в удалении шерсти/волос с участника РП посредством бритья.
 * Slob
-? Characters without hygiene or uncaring of typical standards for cleanliness due to laziness, personal choice, or otherwise; may emphasize and derive pleasure from laziness or from actions linked with a lack of hygiene.
-
-
+? Персонажи, не соблюдающие гигиену или не заботящиеся о типичных стандартах чистоты из-за лени, личного выбора или по другой причине; могут подчеркивать и получать удовольствие от лени или от действий, связанных с отсутствием гигиены.
 
 # Cum-related
 (General)
 * Bukkake
-? The act of a group of at least two people ejaculating directly onto the face and/or body of a single recipient, or receiving such actions.
+? Акт, при котором группа из не менее чем двух человек эякулирует непосредственно на лицо и/или тело одного получателя, или получение таких действий.
 * Creampie
-? The act of orgasming into or onto an exposed, often gaping, orifice, or receiving such actions.
+? Акт оргазма в или на открытое, часто зияющее отверстие, или получение таких действий.
 * Cum Bath
-? The act of being treated physically with cum -- typically in large amounts -- like having it rubbed into one's skin or fur, or literally bathing in it, or having one's semen used in such ways.
+? Акт физического воздействия спермы - обычно в больших количествах - например, втирание ее в кожу или шерсть, буквальное купание в ней или использование спермы подобным образом.
 * Cum Enemas
-? The act of performing an enema, the liquid being used in such being semen, or receiving such actions, often by means of an orgasm.
+? Акт постановки клизмы, причем в качестве жидкости используется сперма, или получение таких действий, часто в результате оргазма.
 * Cum From Mouth/Nose
-? The act of ejaculating with such force and/or by such a volume that the cum leaks and/or sprays from the bottom's mouth and/or nose, or receiving such actions.
+? Акт эякуляции с такой силой и/или в таком объеме, что сперма вытекает и/или разбрызгивается изо рта и/или носа нижнего, или получение таких действий.
 * Cum Marking
-? The act of cumming onto a bottom or submissive with the intent for the scent or sight of the cum to work as a proprietary mark, sometimes for extended or permanent periods of time, or receiving such actions.
+? Акт кончания на нижнего или сабмиссива с намерением, чтобы запах или вид спермы послужил собственным знаком, иногда на длительное или постоянное время, или получение таких действий.
 * Cum Milking
-? The act of collecting or milking the semen from at least one male partner, typically done through manual or mechanical stimulation to the penis, or using stored semen as a sexual toy in an RP. Often involves machines and apparati.
-* Cum on Clothes
-? The act of ejaculating onto clothing or wearing clothing that has been ejaculated on, often in public and/or for extended periods of time.
-* Excessive Precum
-? Engaging in an RP in which a character produces a larger than average amount of precum; typically unrealistic.
-* Excessive Semen
-? Engaging in an RP in which a character produces a larger than average amount of semen; typically unrealistic.
-* Heavily Excessive Precum
-? Engaging in an RP in which a character, typically unrealistically endowed, produces exceptionally large volumes of precum, including but not limited to multiple gallons, and/or looses precum with exceptional force and consistency, often to the point of being comparable to urinating or further.
+? Акт сбора или доения спермы по крайней мере одного партнера-мужчины, обычно осуществляемый посредством ручной или механической стимуляции полового члена или использования накопленной спермы в качестве сексуальной игрушки в РП. Часто используются машины и аппараты.
+* Сперма на одежде
+? Акт эякуляции на одежду или ношение одежды, на которую была эякуляция, часто на публике и/или в течение длительного времени.
+* Чрезмерное количество спермы
+? Участие в RP, в ходе которого персонаж выделяет большее, чем обычно, количество спермы; обычно нереалистично.
+* Чрезмерное количество спермы
+? Участие в РП, в ходе которого персонаж выделяет большее, чем в среднем, количество спермы; как правило, это нереально.
+* Сильно избыточная сперма
+? Участвовать в РП, в котором персонаж, обычно нереально богатый, выделяет исключительно большое количество спермы, включая, но не ограничиваясь несколькими галлонами, и/или выделяет сперму с исключительной силой и консистенцией, часто сравнимой с мочеиспусканием или чем-то еще.
 * Heavily Excessive Semen
-? Engaging in an RP in which a character, typically unrealistically endowed, produces exceptionally large volumes of semen, including but not limited to multiple gallons, and/or looses semen with exceptional force and consistency, often to the point of being comparable to urinating or further.
-* Premature Ejaculation
-? Expresses interest in at least one partner reaching orgasm very quickly; typically implies eagerness, excessive sensitivity and/or prolonged teasing.
-* Realistic Cum
-? Expresses a preference for engaging in an RP in which the volume and quality of sexual fluid is realistic.
-* Shooting Precum
-? Engaging in an RP in which a character spurts precum with exceptional force and consistency.
+? Участие в РП, в котором персонаж, как правило, нереально богатый, производит исключительно большое количество спермы, включая, но не ограничиваясь этим, несколько литров, и/или выделяет сперму с исключительной силой и консистенцией, часто сравнимой с мочеиспусканием или более того.
+* Преждевременная эякуляция
+? Выражает заинтересованность в том, чтобы хотя бы один из партнеров достиг оргазма очень быстро; обычно подразумевает нетерпение, чрезмерную чувствительность и/или длительное дразнение.
+* Реалистичная сперма
+? Выражает предпочтение участию в РП, в котором объем и качество сексуальной жидкости реалистичны.
+* Стреляющая сперма
+? Участвует в РП, в котором персонаж извергает сперму с исключительной силой и постоянством.
 * Sloppy Seconds
-? Engaging in an RP in which a character that has just been came in receives sex from a different partner in the same orifice without removing the previous top's semen.
+? Ролевая игра, в которой только что кончивший персонаж получает секс от другого партнера в то же самое отверстие, не удаляя сперму предыдущего.
 * Snowballing
-? The act of receiving cum into one's mouth transmitted from another person's mouth, or french kissing while sharing a load of cum between one anothers' mouths.
-* Thick/Sticky Cum
-? A preference for characters' semen to be particularly thick and/or viscous, often comparable to tar or glue.
-* Stomach Bulging
-? Engaging in an RP in which a character's stomach will bulge, either due to an exceptionally large insertion (often taking the shape of such), due to eating an exceptionally large amount of food or as a localized form of inflation from any liquid or gas.
+? Акт приема спермы в свой рот, передаваемой изо рта другого человека, или французский поцелуй при обмене спермой между ртами друг друга.
+* Густая/липкая сперма
+? Предпочтение спермы персонажей быть особенно густой и/или вязкой, часто сравнимой с дегтем или клеем.
+* Вздутие живота
+? Участвовать в RP, в котором живот персонажа будет вздуваться, либо из-за исключительно большой вставки (часто принимающей такую форму), либо из-за употребления исключительно большого количества пищи, либо как локализованная форма раздувания от какой-либо жидкости или газа.
 
-# BDSM & Related
+# BDSM и связанное с ним
 (General)
-* Apparatuses
-? The use of complex objects with moving parts in order to bondage, immobilize or otherwise sexually gratify and/or incapacitate a character, in the sexual context of an RP.
-* Begging
-? The self-abasing act of pleading, as a form of submission, being incorporated into an RP.
-* Blindfolds
-? The use of blindfolds or other objects to obscure the vision of at least one character in a sexual context.
-* Branding
-? A situation in which at least one character will be branded, typically as a form of sadomasochism. Typically by means of applying intense heat in a specific pattern designed to visually show ownership.
-* Caging
-? The act of placing another character in a cage, or being placed in a cage, or other confining, device.
-* Chastity
-? Sexual abstinence, either willing or forced; this can include someone simply abstaining from sexual activity, or the wearing of a device that prevents it.
-* Coiling
-? The act of becoming entwined, held or hugged in the grasp of a long tail, coils of a snake, serpent, or other long-bodied creature.
+* Аппараты
+? Использование сложных предметов с подвижными частями для связывания, обездвиживания или иного сексуального удовлетворения и/или обездвиживания персонажа, в сексуальном контексте RP.
+* Попрошайничество
+? Самоуничижительный акт мольбы, как форма подчинения, включенный в РП.
+* Завязывание глаз
+? Использование повязок или других предметов для затуманивания зрения хотя бы одного персонажа в сексуальном контексте.
+* Клеймение
+? Ситуация, в которой по крайней мере один из персонажей подвергается клеймению, обычно как форма садомазохизма. Как правило, с помощью интенсивного нагрева по определенной схеме, призванной визуально продемонстрировать принадлежность.
+* Клетка
+? Действие, при котором другой персонаж помещается в клетку, или его помещают в клетку, или другое ограничивающее устройство.
+* Целомудрие
+? Сексуальное воздержание, добровольное или вынужденное; может включать в себя простое воздержание от половой жизни или ношение устройства, препятствующего этому.
+* Свертывание
+? Акт переплетения, удерживания или обхватывания длинным хвостом, витками змеи, змеевика или другого длиннотелого существа.
 * Competition
-? Pertains to multiple dominants competing to administer domination the best, or multiple submissives competing to please a dominant the best.
-* Degradation
-? A situation where one character will be purposefully degraded, meaning his or her sense of self worth will be lowered; typically in the context of guilt or BDSM.
-* Discipline/Reinforcement
-? The use of reinforcement (rewards and/or punishments) in order to train a submissive to obey the various commands of a master.
-* Extreme Humiliation
-? Engaging in an RP in which one character will purposefully be humiliated to the point (or attempted point) of intense, mental anguish and total loss of self-worth through sexual interaction; typically implies exceptional or devastating, psychological damage.
-* Face Slapping
-? Slaps to the face, of any degree or severity.
-* Flogging/Whipping
-? The use of toys, typically associated with BDSM and domination/submission, being employed against a submissive or bottom, particularly referring to contact play involving whips of any type, riding crops, paddles or flogs.
-* Gags
-? The act of placing and lodging an object in another character's mouth to force him or her to breathe through his or her nose, as well as creating the inability to speak, or receiving such actions.
-* Hand Cuffs
-? The use of hand cuffs to partially immobilize a character during an RP, or to restrain a character to an object.
-* Heavy/Extreme Bondage
-? The use of bondage that is extreme in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
-* Humiliation
-? Engaging in an RP in which one character will be embarrassed, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more intense form of degradation.
-* Leash & Collar
-? Engaging in an RP in which a submissive or bottom will be adorned with a collar that will be attached to a leash.
-* Light/Medium Bondage
-? The use of bondage that is mild or moderate in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
+? Относится к нескольким доминантам, соревнующимся в том, как лучше управлять доминантом, или к нескольким сабмиссивам, соревнующимся в том, как лучше ублажить доминанта.
+* Деградация
+? Ситуация, когда один из персонажей целенаправленно унижается, то есть его самооценка снижается; обычно в контексте чувства вины или BDSM.
+* Дисциплина/принуждение
+? Использование подкрепления (поощрения и/или наказания) для обучения сабмиссива повиноваться различным командам господина.
+* Экстремальное унижение
+? Участие в RP, в котором персонаж целенаправленно унижается до такой степени (или попытки унижения), что испытывает сильные душевные страдания и полную потерю самоуважения в результате сексуального взаимодействия; обычно подразумевает исключительный или разрушительный психологический ущерб.
+* Пощечина по лицу
+? Пощечины по лицу любой степени и тяжести.
+* Порка / порка
+? Использование игрушек, обычно ассоциирующихся с BDSM и доминированием/подчинением, против сабмиссива или нижнего уровня, особенно в контактных играх с использованием хлыстов любого типа, манежей, весел или порки.
+* Кляп
+? Акт помещения и размещения предмета во рту другого персонажа с целью заставить его или ее дышать через нос, а также создания неспособности говорить или получения подобных действий.
+* Наручники
+? Использование наручников для частичного обездвиживания персонажа во время РП или для приковывания персонажа к какому-либо предмету.
+* Тяжелое/экстремальное бондаж
+? Использование бондажа, который является экстремальным либо по положению, в котором находится связанный персонаж, либо по длительности нахождения персонажа в бондаже, либо по степени дискомфорта, вызванного бондажом, либо по степени обездвиживания, которое произойдет из-за бондажа.
+* Унижение
+? Участие в RP, в котором один персонаж будет опозорен, обычно чрезвычайно и/или часто, в попытке вызвать либо реакцию сексуального удовлетворения от эмоций, связанных с унижением, либо просто как форму психологического доминирования или наказания; обычно более интенсивная форма деградации.
+* Поводок и ошейник
+? Участвует в RP, в котором на сабмиссива или нижнего надевается ошейник, прикрепленный к поводку.
+* Легкий/Средний бондаж
+? Использование бондажа, который является легким или умеренным либо по положению, в котором находится связанный персонаж, либо по продолжительности нахождения персонажа в бондаже, либо по степени дискомфорта, вызванного бондажом, либо по степени обездвиживания, которое произойдет в результате бондажа.
 * Master/Pet
-? Engaging in an RP in which a domination/submission relationship is played between at least two characters, and in which the bottom character takes on the role of a pet; typically a training-based scenario with positive reinforcement over negative reinforcement, as well as the inclusion of affection.
+? Участие в RP, в котором отношения доминирования/подчинения разыгрываются между по меньшей мере двумя персонажами, а нижний персонаж играет роль домашнего животного; обычно сценарий, основанный на дрессировке, с положительным подкреплением вместо отрицательного, а также с включением ласки.
 * Master/Slave
-? Engaging in an RP in which a domination/submission relationship is played between at least two characters, and in which the bottom character takes on the role of a slave; typically requires the slave to accept any and all commands, often involves non-sexual forms of abuse and uses negative reinforcement.
-* Objectification
-? The act of either being treated or treating another character as a specific and set object, often articles of furniture, or bestowing dehumanizing tasks to a character in order to imbue a character with the traits of an object.
-* Physical Restraints
-? The act of giving or receiving commands, typically verbal, that limit the way in which another character is permitted to physically interact with another character.
-* Public Humiliation
-? One or more characters engaging in explicit and elicit, sexual activity in a public setting for the purposes of humiliating one or more characters.
+? Ролевая игра, в которой отношения доминирования/подчинения разыгрываются как минимум между двумя персонажами, а нижний персонаж играет роль раба; обычно требует от раба выполнения любых команд, часто включает несексуальные формы насилия и использует отрицательное подкрепление.
+* Объективация
+? Акт обращения с персонажем или отношение к другому персонажу как к определенному и заданному объекту, часто предмету мебели, или наделение персонажа дегуманизирующими задачами с целью придания персонажу черт объекта.
+* Физические ограничения
+? Акт отдачи или получения команд, обычно словесных, которые ограничивают физическое взаимодействие персонажа с другим персонажем.
+* Публичное унижение
+? Один или несколько персонажей вступают в явную и вызывающую сексуальную активность в публичном месте с целью унизить одного или нескольких персонажей.
 * Puppy/Pony Play
-? Engaging in an RP in which a domination/submission relationship is played between two characters, and in which the bottom character takes on the role and psyche of a feral puppy, pony or other predetermined animal; typically involves rituals, bathroom use control, speech restrictions, physical restrictions and humiliation, as well as extensive training and a mixture of positive and negative reinforcement.
-* Sadism/Masochism
-? The act of taking the role of a sadist or masochist, meaning one that receives sexual gratification from being the recipient of or administering physical pain.
-* Sexual Restraints
-? Refers to a dominant giving a command for how the submissive may act in regard to sexual acts or within a sexual situation; often a decree of chastity or prohibition from any form of sexual contact.
-* Sissification
-? The act of changing the appearance of a male character through realistic means, particularly by the use of makeup, female clothes and/or female accessories, to appear as a female and/or forcing the male to adopt the mannerisms of a female, or being the recipient of such actions.
-* Speech Restrictions
-? The act of giving or receiving commands, typically verbal, that limit the way in which another character is permitted to speak or otherwise make noise from one's mouth; typically used in a BDSM context to constrain the submissive to begging, animal noises or silence.
+? Участие в RP, в котором между двумя персонажами разыгрываются отношения доминирования/подчинения, и в котором нижний персонаж принимает на себя роль и психику одичавшего щенка, пони или другого заранее определенного животного; обычно включает ритуалы, контроль посещения туалета, ограничение речи, физические ограничения и унижения, а также обширное обучение и смесь положительного и отрицательного подкрепления.
+* Садизм/мазохизм
+? Акт принятия на себя роли садиста или мазохиста, то есть человека, получающего сексуальное удовлетворение от получения или причинения физической боли.
+* Сексуальное сдерживание
+? Означает, что доминант отдает сабмиссиву приказ о том, как тот должен вести себя в отношении сексуальных действий или в сексуальной ситуации; часто это указ о целомудрии или запрет на любые формы сексуальных контактов.
+* Сиссификация
+? Акт изменения внешности персонажа мужского пола с помощью реалистичных средств, в частности, с помощью макияжа, женской одежды и/или женских аксессуаров, чтобы он выглядел как женщина и/или заставлял мужчину перенимать манеры поведения женщины, или был получателем таких действий.
+* Ограничения в речи
+? Акт отдачи или получения команд, обычно словесных, которые ограничивают способ, которым другому персонажу разрешено говорить или издавать звуки изо рта; обычно используется в контексте BDSM для ограничения сабмиссива до попрошайничества, животных звуков или молчания.
 * Suspension Play
-? Engaging in an RP that includes suspension apparatuses and/or rope toys, which typically will suspend one character above the bed or floor; often uncomfortable.
+? Участие в РП с использованием подвесных устройств и/или веревочных игрушек, которые обычно подвешивают персонажа над кроватью или полом; часто вызывает дискомфорт.
 * Uppity
-? Expresses an interest in engaging in an RP in which the submissive and/or bottom character is combative and disobedient in any number of ways.
+? Выражает интерес к участию в ролевой игре, в которой сабмиссив и/или нижний персонаж ведет себя агрессивно и непокорно любым способом.
 * Wax Play
-? The act of using wax, typically hot candle wax, as a form of sexual stimulation and/or torture, or receiving such actions.
+? Акт использования воска, обычно горячего свечного воска, в качестве формы сексуальной стимуляции и/или пытки, или получение таких действий.
 
-# Watersports / Scat
-(General)
+* Watersports / Scat
+(Общие сведения)
 * Bathroom Control
-? A situation in which a character controls when, how and where another character may use the bathroom in any fashion, typically as a form of control or degradation.
-* Diapers
-? A situation in which at least one character will wear a diaper; typically implies that the diaper will be soiled with urine and/or fecal matter, usually in conjunction with age play or infantilism, but sometimes in conjunction with humiliation.
-* Farting
-? Farting, during sexual intercourse, or just as an act during the roleplay. May be exaggerated (visible expulsions of air) and/or with exaggerated flatulent noises.
+? Ситуация, в которой персонаж контролирует, когда, как и где другой персонаж может использовать ванную комнату любым способом, обычно в качестве формы контроля или деградации.
+* Подгузники
+? Ситуация, в которой хотя бы один персонаж носит подгузник; обычно подразумевается, что подгузник будет испачкан мочой и/или фекалиями, обычно в сочетании с возрастной игрой или инфантилизмом, но иногда и в сочетании с унижением.
+* Пуканье
+? Пукание, во время полового акта или просто как действие во время ролевой игры. Может быть преувеличенным (видимое извержение воздуха) и/или с преувеличенными метеоритными звуками.
 * Hyper Scat
-? Producing unnatural amounts of feces, or using other means to obtain feces in huge, often unrealistic, amounts within an RP, the excretion of product thereof causing sexual stimulation and/or distress to one or more characters.
+? Выделение неестественного количества фекалий или использование других средств для получения фекалий в огромных, часто нереальных, количествах в рамках ролевой игры, причем выделение продуктов этого процесса вызывает сексуальное возбуждение и/или дистресс у одного или нескольких персонажей.
 * Hyper Watersports
-? Producing unnatural amounts of urine, or using other means to obtain urine in huge, often unrealistic, amounts within an RP, the excretion of product thereof causing sexual stimulation and/or distress to one or more characters.
-* Marking
-? The act of urinating on another character in order to mark them with your proprietary scent of urine, or being the recipient of such actions.
+? Выделение неестественного количества мочи или использование других средств для получения мочи в огромных, часто нереальных, количествах в рамках RP, причем выделение такого продукта вызывает сексуальную стимуляцию и/или дистресс у одного или нескольких персонажей.
+* Маркировка
+? Акт мочеиспускания на другого персонажа с целью пометить его своим собственным запахом мочи, или быть получателем таких действий.
 * Piss Enemas
-? The act of performing an enema, the liquid being used in such being urine, or receiving such actions, often by means of someone urinating inside his/her partner.
+? Акт постановки клизмы, при этом в качестве жидкости используется моча, или получение таких действий, часто путем мочеиспускания внутрь партнера.
 * Scat
-? Pertains to the inclusion of fecal matter or the expelling of fecal matter in any form in the sexual context of an RP.
+? Относится к включению фекалий или их выделению в любой форме в сексуальном контексте RP.
 * Scat Torture
-? The act of using fecal matter or the act of expelling fecal matter to abuse another character who is unwilling or uninterested in taking part in such actions, or being the recipient of such.
+? Акт использования фекалий или акт выделения фекалий для издевательства над другим персонажем, который не желает или не заинтересован в участии в таких действиях, или в том, чтобы быть их получателем.
 * Soiling
-? The act of "fecal soiling" in one's underwear, pants or clothes, or having another character perform such actions.
-* Swallowing Feces
-? Engaging in an RP in which a character will orally consume fecal matter.
-* Swallowing Urine
-? Engaging in an RP in which a character will orally consume urine.
-* Swallowing Vomit
-? Engaging in an RP in which a character will orally consume vomit.
-* Vomiting
-? The act of vomiting, being vomited upon, consuming vomit or otherwise including vomit in the sexual context of an RP; typically in a BDSM context.
-* Watersports
-? Pertains to the inclusion of urine, or the expelling of urine, in any form, in the sexual context of an RP.
+? Акт "загрязнения фекалиями" своего нижнего белья, штанов или одежды, или принуждение другого персонажа к таким действиям.
+* Глотание фекалий
+? Участие в RP, в котором персонаж орально потребляет фекалии.
+* Проглатывание мочи
+? Участие в РП, в котором персонаж будет перорально употреблять мочу.
+* Проглатывание рвоты
+? Участие в РП, в котором персонаж будет употреблять рвотные массы перорально.
+* Рвота
+? Акт рвоты, рвоты на себя, употребления рвоты или иного включения рвоты в сексуальный контекст РП; обычно в контексте BDSM.
+* Водный спорт
+? Относится к включению мочи или выделению мочи в любой форме в сексуальный контекст РП.
 * Wetting
-? The act of urinating in one's underwear, pants or clothes, or having another character urinate onto a person who is clothed to any degree.
+? Акт мочеиспускания в нижнее белье, штаны или одежду, или когда другой персонаж мочится на одетого человека в любой степени.
 
-#Pain
-(Giving, Receiving)
-* Light pain
-? Refers to the inclusion of light physical pain due to acts which are directly sexual.
-* Heavy pain
-? Refers to the inclusion of heavy physical pain due to acts which are directly sexual; typically rough or excessive penetrations. This is probably gonna leave a mark.
-* Nipple clamps
-? pressure device applied to nipples to create pain which produces pleasure.
-* Clothes pins
-? Pinching sking between the forks of a clothes pin
-* Caning
-? Caning is a technique used in BDSM in which the dominant repeatedly strikes the submissive with a long flexible cane, usually on the buttocks.
-* Flogging
-? The use of toys, typically associated with BDSM and domination/submission, being employed against a submissive or bottom, particularly referring to contact play involving whips of any type, riding crops, paddles or flogs.
-* Gagging / Choking
-? Being made to gag or choke, either by objects inserted into the mouth or hands/objects around the neck.
-* Beating
-? Being struck with fists or other objects
-* Spanking
-? The act of striking the buttocks of another character, or being the recipient of such; often as a form of erotic foreplay or as punishment in a BDSM setting.
-* Cock/Pussy slapping
-? slapping the genitalia of your partner, or recieving such slaps
-* Cock/Pussy torture
-? Engaging in an RP in which at least one character's genitals will be given negative attention, the intent of which to be to cause physical pain.
-* Hot Wax
-? The act of using wax, typically hot candle wax, as a form of sexual stimulation and/or torture, or receiving such actions.
-* Scratching
-? One character scratching another with their nails or claws, sometimes leaving marks; sometimes but not necessarily painful.
-* Biting
-? The act of biting or being bitten; sometimes painful, sometimes playful.
-* Cutting 
-? The act of cutting a partner to cause pain in a sexual context.
+#Боль
+(Отдавая, получая)
+* Легкая боль
+? Относится к включению легкой физической боли в результате действий, носящих непосредственно сексуальный характер.
+* Сильная боль
+? Означает включение сильной физической боли в результате действий, имеющих непосредственно сексуальный характер; обычно грубые или чрезмерные проникновения. Это, вероятно, оставит след.
+* Зажимы для сосков
+Устройство, оказывающее давление на соски для создания боли, которая приводит к удовольствию.
+* Булавки для одежды
+? Защемление кожи между вилками булавки для одежды.
+* Канинг
+? Канинг - это техника, используемая в BDSM, при которой доминант наносит сабмиссиву множественные удары длинной гибкой тростью, обычно по ягодицам.
+* Порка
+? Использование игрушек, обычно ассоциирующихся с BDSM и доминированием/подчинением, против сабмиссива или нижнего уровня, особенно в контактных играх с использованием хлыстов любого типа, манежей, весел или порки.
+* Кляп / Удушье
+? Затыкание рта кляпом или удушение, либо с помощью предметов, вставляемых в рот, либо с помощью рук/предметов на шее.
+* Избиение
+? Нанесение ударов кулаками или другими предметами.
+* Шлепанье
+? Акт нанесения ударов по ягодицам другого персонажа или получение таких ударов; часто как форма эротической прелюдии или наказания в BDSM-среде.
+* Шлепки по члену/киске
+Шлепки по гениталиям партнера или получение таких шлепков
+* Пытка членом/киской
+? участие в RP, в котором гениталиям хотя бы одного из персонажей будет уделяться негативное внимание, с целью причинения физической боли.
+* Горячий воск
+? Акт использования воска, обычно горячего свечного воска, в качестве формы сексуальной стимуляции и/или пытки, или получение таких действий.
+* Царапанье
+? Один персонаж царапает другого ногтями или когтями, иногда оставляя следы; иногда, но не обязательно болезненно.
+* Кусание
+? Действие кусания или укуса; иногда болезненное, иногда игривое.
+* Резать ? 
+? Акт разрезания партнера с целью причинения боли в сексуальном контексте.
 * Snuff
-? Murder a character as part of sex.
+? Убийство персонажа как часть секса.
 * Ballbusting
-? Harm to the testicles, usually for sexual pleasure.
+? Нанесение вреда яичкам, обычно для получения сексуального удовольствия.
 * 3+ Penetration
-? The act of penetrating a single character with three or more objects, including but not limited to the penis, sex toys, fist etc., or receiving such actions.
-* Anal Prolapse
-? Where insides of the anus are pulled out by force (unnatural means, such as a cream, liquid or suction method or internal massage) or naturally (either by a cock, dildo, or pushing)
-* Breast Smothering
-? The act of smothering a character using one's breasts, making it hard to breathe.
+? Акт проникновения в одного персонажа тремя или более предметами, включая, но не ограничиваясь, пенис, секс-игрушки, кулак и т.д., или получение таких действий.
+* Анальный пролапс (Anal Prolapse)
+? Когда внутренности ануса вытягиваются силой (неестественным способом, например, с помощью крема, жидкости или отсоса, или внутреннего массажа) или естественным путем (членом, фаллоимитатором или толчком).
+* Удушение груди
+? Акт удушения персонажа своей грудью, затрудняющий дыхание.
 * Breath Control
-? A situation in which at least one character will have physical control over the breathing habits of another character, often by either intermittent choking and/or due to the penetration of the throat.
-* Choking
-? A situation in which one character will control another character's breath with extreme force, and typically for extended and/or dangerous periods of time.
-* Cock/Ball Smothering
-? The act of smothering a character with a cock and/or balls, making it difficult to breathe.
+? Ситуация, в которой по крайней мере один персонаж физически контролирует дыхание другого персонажа, часто либо путем периодического удушения, либо из-за проникновения в горло.
+* Удушье
+? Ситуация, в которой один персонаж контролирует дыхание другого персонажа с чрезвычайной силой и, как правило, в течение длительного и/или опасного периода времени.
+* Удушение членом/шариком
+? Акт удушения персонажа членом и/или яйцами, затрудняющий дыхание.
 * Cock Fucking
-? The act of inserting one's penis into another penis and thrusting into it as if it were a more traditional orifice.
-* Hair Pulling
-? The act of pulling or tugging on another character's hair, or being the recipient of such.
+? Акт введения своего пениса в другой пенис и толчка в него, как в более традиционное отверстие.
+* Выдергивание волос
+? Действие, заключающееся в выдергивании волос другого персонажа или в том, что он их выдергивает.
 
-# Blood & Gore / Torture / Death
-(General)
-* Abrasions
-? Engaging in a situation in which at least one character will receive abrasions, defined as scrapes that are at their mildest in severity capable of causing bleeding; typically administered via rough or coarse objects, such as sandpaper or cement.
+* Кровь и злоба / Пытки / Смерть
+(Общие)
+* Ссадины
+? Ситуация, в которой хотя бы один персонаж получает ссадины, определяемые как царапины, которые в самой легкой степени тяжести способны вызвать кровотечение; обычно наносятся грубыми или грубыми предметами, такими как наждачная бумага или цемент.
 * Bloodplay
-? Pertains to the inclusion of blood or the retrieval of blood in any form in a sexual context, or engaging in acts which will draw blood.
-* Breast/Nipple Torture
-? A situation in which at least one character's breasts or nipples will be the subject of physical, non-sexual pain of an extended duration.
-* Burning
-? A situation in which at least one character will be burned.
-* Castration
-? An action where the testicles are removed or disabled, whether by surgical, chemical or magical means; sometimes also refers to removing or disabling the ovaries in those who have them.
-* Death
-? A situation in which a character will die at any point by any means.
+? Относится к включению крови или получению крови в любой форме в сексуальном контексте, а также к действиям, в результате которых появляется кровь.
+* Пытка груди/сосков
+? Ситуация, в которой грудь или соски хотя бы одного из персонажей подвергаются физической, несексуальной боли длительной продолжительности.
+* Жжение
+? Ситуация, в которой хотя бы один персонаж будет сожжен.
+* Кастрация
+? Действие, при котором яички удаляются или отключаются хирургическим, химическим или магическим путем; иногда также относится к удалению или отключению яичников у тех, у кого они есть.
+* Смерть
+? Ситуация, в которой персонаж умирает в любой момент любым способом.
 * Emasculation
-? The act whereby the genitalia are removed by magical or surgical means, usually the penis and/or the testicles. May also imply humiliation; e.g. to render a male less of a man.
-* Genital Torture
-? Engaging in an RP in which at least one character's genitals will be given negative attention, the intent of which to be to cause physical pain.
-* Impalement
-? Engaging in the act of being penetrated by an object from one orifice and having it extend out of another orifice in a typically non-fatal manner.
-* Menses
-? Engaging in an RP in which female menstruation will be applied to the sexual context of a scene.
-* Mutilation
-? The act of physically damaging or otherwise causing irreparable change and/or harm to a character in an RP, typically by the use of cutting, stabbing or contact objects; often exceptionally painful.
-* Necrophilia
-? The act of having sex with a dead, or otherwise unconscious or inanimate, character that was once alive, or, theoretically, receiving such actions.
-* Non-Sexual Pain
-? Refers to either the administering and/or receiving of pain that is not derived through sexual activity and does not cause sexual gratification for the recipient, often interpreted to mean pain that is located in non-sexual parts of one's body.
-* Nonsexual Torture
-? The act of causing or receiving extended scenes of pain due to acts that are not of a sexual nature, or giving or being the recipient of psychological abuse for extended periods of time or at a great degree of intensity.
-* Nullification
-? The removal of any body part.
-* Piercing
-? The act of piercing a character's body, typically in a painful manner, and often in a sexual or exceptionally sensitive location on the person's body, or having one's own body pierced.
-* Sexual Torture
-? Torture that is sexual in nature, or greatly harms one sexually.
-* Swallowing Blood
-? The act of orally consuming blood.
+? Действие, при котором магическим или хирургическим путем удаляются гениталии, обычно пенис и/или яички. Может также означать унижение; например, чтобы сделать мужчину менее мужчиной.
+* Пытки половых органов
+? Участие в РП, в котором гениталиям хотя бы одного персонажа будет уделяться негативное внимание, с целью причинения физической боли.
+* Импалемент
+? Действие, при котором в одно отверстие проникает предмет, а из другого отверстия он выходит, как правило, без летального исхода.
+* Менструация
+? Участие в RP, в котором женская менструация будет применена к сексуальному контексту сцены.
+* Калечение
+? Акт физического повреждения или иного нанесения непоправимых изменений и/или вреда персонажу в РП, обычно с использованием режущих, колющих или контактных предметов; часто исключительно болезненный.
+* Некрофилия
+? Акт секса с мертвым, или иным образом бессознательным или неодушевленным персонажем, который когда-то был живым, или, теоретически, получение таких действий.
+* Несексуальная боль
+? Означает причинение и/или получение боли, не связанной с сексуальной активностью и не вызывающей сексуального удовлетворения у получателя, часто интерпретируется как боль, локализованная в несексуальных частях тела.
+* Nonse Sexual Torture
+? Акт причинения или получения продолжительных сцен боли в результате действий, не имеющих сексуального характера, либо оказания или получения психологического насилия в течение длительного времени или с большой степенью интенсивности.
+* Нуллификация
+? Удаление любой части тела.
+* Пирсинг
+? Акт прокалывания тела персонажа, обычно болезненным способом и часто в сексуальном или исключительно чувствительном месте на теле человека, или прокалывание собственного тела.
+* Сексуальные пытки
+? Пытка, имеющая сексуальный характер или причиняющая значительный сексуальный ущерб.
+* Глотание крови
+? Акт перорального употребления крови.
 
 #Meta
-(Self, Partner)
-* First Person
-* Third Person
-* Short Post Length (~1-3 sentences)
-* Medium Post Length (~3-7 sentences)
-* Long Post Length (~2-4 paragraphs)
-* Story (3+ paragraphs)
-* Dynamic Post Length
+(Я, партнер)
+* От первого лица
+* От третьего лица
+* Короткие сообщения (~1-3 предложения)
+* Средний пост (~3-7 предложений)
+* Длинный пост (~2-4 абзаца)
+* Рассказ (3+ абзаца)
+* Динамический пост
 
 #Medium
-(General)
+(Общие)
 * Skype
 * Kik
 * Reddit
@@ -733,13 +731,13 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 * Other
 
 #Time-Scale
-(Self, Partner)
-* Short-Term Scenes
-* Medium-Term Scenes
-* Long-Term Scenes
-* Quick Replies (0~10 mins)
-* Fast Replies (10~30 mins)
-* Normal Replies (30min ~ 2hours)
-* Slow Replies (2~8 hours)
-* Glacial Replies (8-24 hours)
-* Occasional Replies (24+ hours)
+(Сам, партнер)
+* Краткосрочные сцены
+* Среднесрочные сцены
+* Долгосрочные сцены
+* Быстрые ответы (0~10 мин.)
+* Быстрые ответы (10~30 мин.)
+* Обычные ответы (30 мин ~ 2 часа)
+* Медленные ответы (2~8 часов)
+* Ледниковые ответы (8-24 часа)
+* Периодические ответы (24+ часа)
